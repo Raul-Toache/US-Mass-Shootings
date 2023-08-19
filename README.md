@@ -20,6 +20,7 @@ Dans cette analyse des fusillades de masse, l'objectif est de répondre aux ques
 
 
 # Versión en Español:
+
 En este analysis de tiroteos masivos, el objetivo es responder a las siguientes preguntas:
 1. ¿Qué estados son los mass afectados por tiroteos masivos per capita?
 2. ¿Qué estados tienen un mayor número de muertos per capita en tiroteos masivos?
