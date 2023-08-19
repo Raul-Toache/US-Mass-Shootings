@@ -1,7 +1,7 @@
 # US-Mass-Shootings
 US Mass Shootings Analysis / Analyse des fusillades de masse aux États-Unis / Análisis de tiroteos masivos en E.E.U.U.
 
-English Version:
+# English Version:
 
 In this mass shootings analysis, the objective is to answer the following questions:
 1. Which states have been more affected by mass shootings per one hundred thousand people?
@@ -10,7 +10,7 @@ In this mass shootings analysis, the objective is to answer the following questi
 4. Which are the top ten states safest states in terms of mass shootings?
 
 
-Version Française:
+# Version Française:
 
 Dans cette analyse des fusillades de masse, l'objectif est de répondre aux questions suivantes :
 1. Quels États ont été les plus touchés par les fusillades de masse pour cent mille habitants ?
@@ -19,7 +19,7 @@ Dans cette analyse des fusillades de masse, l'objectif est de répondre aux ques
 4. Quels sont les dix États les plus sûrs en termes de fusillades de masse ?
 
 
-Versión en Español:
+# Versión en Español:
 En este analysis de tiroteos masivos, el objetivo es responder a las siguientes preguntas:
 1. ¿Qué estados son los mass afectados por tiroteos masivos per capita?
 2. ¿Qué estados tienen un mayor número de muertos per capita en tiroteos masivos?
